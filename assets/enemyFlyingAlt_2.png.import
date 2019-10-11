@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/enemyFlyingAlt_2.png-36b0a0d446f525b984c4e8bd335e811c.stex"
+path="res://.import/enemyFlyingAlt_2.png-48fd24117c12ec25cbf4a5e3d9c33ea6.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://enemyFlyingAlt_2.png"
-dest_files=[ "res://.import/enemyFlyingAlt_2.png-36b0a0d446f525b984c4e8bd335e811c.stex" ]
+source_file="res://assets/enemyFlyingAlt_2.png"
+dest_files=[ "res://.import/enemyFlyingAlt_2.png-48fd24117c12ec25cbf4a5e3d9c33ea6.stex" ]
 
 [params]
 
