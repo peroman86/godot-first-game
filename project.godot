@@ -16,13 +16,19 @@ _global_script_class_icons={
 [application]
 
 config/name="FirstGame"
-run/main_scene="res://scenes/sceneA/Player.tscn"
+run/main_scene="res://scenes/sceneA/Main.tscn"
 config/icon="res://icon.png"
 
 [display]
 
 window/size/width=480
 window/size/height=720
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
 
 [rendering]
 
